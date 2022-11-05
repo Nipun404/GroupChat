@@ -1,0 +1,52 @@
+.logo{
+    height: 70px;
+}
+.send{
+    padding: 10px;
+}
+#textInp{
+    width: 30%;
+
+}
+.container{
+    margin: auto;
+    height: 10px;
+    border: 1px solid black;
+    background-color: lightskyblue;
+    border-radius: 20px;
+    height: 60vh;
+    width: 100vh;
+    overflow-y: auto;
+}
+
+.sub{
+    height: 30px;
+    background-color: cornflowerblue;
+    border: 1px solid whitesmoke;
+}
+.oval {
+    width: 100px;
+    border-radius: 50px;
+    padding: 10px;
+    margin: auto;
+   
+}
+.message{
+    background-color: whitesmoke;
+    width: 25%;
+    margin: 20px;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.right{
+    float: right;
+    clear: both;
+}
+.center {
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+    clear: both;
+  }
