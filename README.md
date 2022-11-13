@@ -32,7 +32,7 @@ Start the server
 ```bash
   nodemon ./nodeserver/index.js
 ```
-##Screenshots
+Screenshots
 
 <img src="https://user-images.githubusercontent.com/101872328/201539316-3d5a7be0-d569-443b-aea7-164fd1beff22.png" width="700" height="200">
 
